@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+using namespace std;
+const int M=1e9+7;
+#define ll long long int
+
+void doit(){
+
+
+
+  
+}
+
+int main()
+{
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  ll noOfTestCases;
+  cin>>noOfTestCases;
+  while(noOfTestCases--){
+    doit()
+  }
+
+  return 0;
+}
