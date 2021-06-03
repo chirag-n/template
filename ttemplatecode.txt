@@ -16,8 +16,8 @@ int main()
   cin.tie(NULL);
   ll noOfTestCases;
   cin>>noOfTestCases;
-  while(noOfTestCases--){
-    doit()
+  for(int i=0;i<noOfTestCases;i++){
+    doit();
   }
 
   return 0;
